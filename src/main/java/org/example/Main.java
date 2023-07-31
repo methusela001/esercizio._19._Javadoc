@@ -11,7 +11,7 @@ package org.example;
  * In questa classe ho creato un obj wordGames che richiama i metodi addHelloWord e getFullName della classe WordGames
  * e li stampa in console
  *
- * @Autore: Andrea Zora
+ * @Autore: Methusela Fernando
  **/
 public class Main {
     /**
